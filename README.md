@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Bugra Hizal</h1>
 <h3 align="center">A passionate Software Engineer from Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgrhzl&label=Profile%20views&color=0e75b6&style=flat" alt="bgrhzl" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/bugrahizal/**
 
-- 📄 Know about my experiences [https://github.com/bgrhzl/Resume/blob/main/BugraHIZAL-CV.pdf](https://github.com/bgrhzl/Resume/blob/main/BugraHIZAL-CV.pdf)
+- 📄 Know about my experiences [https://github.com/bgrhzl/Resume/blob/main/BugraHIZAL-CV.pdf](My Resume Here)
 
 - ⚡ Fun fact **I think I'm fun because I'm as good with my social circle as I am with coding.**
 

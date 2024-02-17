@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgrhzl&label=Profile%20views&color=0e75b6&style=flat" alt="bgrhzl" /> </p>
 
-
 - 🔭 I’m currently working on [Gunes Hukuk & Danismanlik](https://www.guneshukukvedanismanlik.com.tr/)
 
 - 🌱 I’m currently learning **I specialize in full-stack**
@@ -17,6 +16,9 @@
 - 📄 Know about my experiences [Resume/CV](https://github.com/bgrhzl/Resume/blob/main/BugraHIZAL-CV.pdf)
 
 - ⚡ Fun fact **I think I'm fun because I'm as good with my social circle as I am with coding.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bgrhzl" alt="bgrhzl" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

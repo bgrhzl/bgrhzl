@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/bugrahizal/**
 
-- 📄 Know about my experiences [Resume/CV] (https://github.com/bgrhzl/Resume/blob/main/BugraHIZAL-CV.pdf)
+- 📄 Know about my experiences [Resume/CV](https://github.com/bgrhzl/Resume/blob/main/BugraHIZAL-CV.pdf)
 
 - ⚡ Fun fact **I think I'm fun because I'm as good with my social circle as I am with coding.**
 

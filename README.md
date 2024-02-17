@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgrhzl&label=Profile%20views&color=0e75b6&style=flat" alt="bgrhzl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bgrhzl" alt="bgrhzl" /></a> </p>
 
 - 🔭 I’m currently working on [Gunes Hukuk & Danismanlik](https://www.guneshukukvedanismanlik.com.tr/)
 
